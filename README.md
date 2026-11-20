@@ -5,7 +5,7 @@ Static product catalog site (HTML, CSS, JavaScript). No build step. Works on Git
 ## Files
 
 - `index.html`: page layout (header, hero, products, ETP videos, about, contact)
-- `css/style.css`: brand styling (Forest Green #025C38 from the logo, leaf green accent)
+- `css/style.css`: brand styling (Forest Green #025C38, leaf green accent)
 - `js/products.js`: all product data. **Generated from `C2Y-Products.xlsx`, do not edit by hand.**
 - `tools/excel_to_products.py`: converts the Excel file into `js/products.js`
 - `js/app.js`: filters, search, product pop-up, video player, WhatsApp enquiry
